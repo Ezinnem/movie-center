@@ -93,4 +93,3 @@ func main() {
     fmt.Println("Strating server at port 8000/n")
     log.Fatal(http.ListenAndServe(":8000",r))
 }
-//35.04
